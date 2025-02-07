@@ -4,6 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/d3b18257-a611-4d2a-9a55-692555741db9)
 
+![image](https://github.com/user-attachments/assets/cd1c5afe-f017-440b-abde-5b2f5696e368)
+
+
 # Список файлов:
 - stock.bin - стоковый файл BIOS сняты с данной платы. На плате автора установлен чипсет Q87;
 - mod.bin - модифицированый файл BIOS, основанный на стоковой версии BIOS данной платы.
